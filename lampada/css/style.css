@@ -1,0 +1,22 @@
+*{
+    margin: 0 auto;
+    position: absolute;
+    top: 0; bottom: 0;
+    left: 0; right: 0;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+#lampada{
+    width: 200px;
+
+}
+#interruptor{
+    width: 100px;
+    margin-left: 50vh;
+    cursor:pointer;
+    pointer-events:auto;
+}
