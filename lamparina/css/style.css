@@ -1,0 +1,12 @@
+*{
+    margin: 0 auto;
+    margin: auto;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+img{
+    width: 200px;
+    margin-top: 9vh;
+}
